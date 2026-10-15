@@ -14,14 +14,32 @@ This project analyzes retail sales data using PostgreSQL to answer business-rela
 The project explores questions such as:
 
 1.All columns for sales made on '2022-11-05
+
+
 2.To retrieve all transactions where the category is 'Clothing' and the quantity sold is more than 4 in the month of Nov-2022
+
+
 3.To calculate the total sales (total_sale) for each category
+
+
 4.To find the average age of customers who purchased items from the 'Beauty' category
+
+
 5.To find all transactions where the total_sale is greater than 1000
+
+
 6.To find the total number of transactions (transaction_id) made by each gender in each category
+
+
 7.To calculate the average sale for each month. Find out best selling month in each year
+
+
 8.To find the top 5 customers based on the highest total sales
+
+
 9.To find the number of unique customers who purchased items from each category
+
+
 10.To create each shift and number of orders (Example Morning <12, Afternoon Between 12 & 17, Evening >17)
 
 ## SQL Concepts Used
